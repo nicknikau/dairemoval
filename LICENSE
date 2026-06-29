@@ -1,0 +1,32 @@
+# END USER LICENSE AGREEMENT (EULA) - PODRIP CORE ENGINE
+
+IMPORTANT: PLEASE READ THIS END USER LICENSE AGREEMENT CAREFULLY BEFORE DOWNLOADING, INSTALLING, OR USING THIS SOFTWARE.
+
+By downloading, installing, or using the PodRip software, accompanying installer scripts, and Docker container images (collectively, the "Software"), you agree to be bound by the terms of this Agreement. If you do not agree to these terms, do not install or use the Software.
+
+### 1. LICENSE GRANT
+Subject to your compliance with the terms of this Agreement and acquisition of a valid verification token ("License Key"), the Developer grants you a revocable, non-exclusive, non-transferable, limited license to download, install, and run the Software solely for your personal or internal operational use on your personal hardware.
+
+### 2. RESTRICTIONS
+You agree not to, and you will not permit others to:
+* Decompile, reverse engineer, disassemble, or attempt to derive the source code of the Software's compiled binary engine.
+* Modify, adapt, alter, or create derivative works based on the core compiled Software.
+* Bypass, modify, defeat, or circumvent any of the security features, license validation checks, or authentication mechanisms built into the Software.
+* Redistribute, sublicense, rent, lease, or publicly share the Software or your assigned License Key without explicit written permission from the Developer.
+
+### 3. OWNERSHIP & INTELLECTUAL PROPERTY
+The Software, including all copyrights, trademarks, trade secrets, and other intellectual property rights therein, is and shall remain the sole and exclusive property of the Developer. This Agreement does not grant you any ownership rights in the Software.
+
+### 4. TERMINATION
+This Agreement and your right to use the Software will terminate automatically and immediately without notice from the Developer if you fail to comply with any term of this Agreement, or if your associated subscription or verification token is revoked, deleted, or canceled. Upon termination, you must cease all use of the Software and remove all copies from your system architecture.
+
+### 5. DISCLAIMER OF WARRANTIES
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE DEVELOPER DISCLAIMS ALL WARRANTIES, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. THE DEVELOPER DOES NOT WARRANT THAT THE SOFTWARE WILL MEET YOUR REQUIREMENTS, OPERATE WITHOUT INTERRUPTION, OR BE COMPLETELY ERROR-FREE.
+
+### 6. LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE DEVELOPER BE LIABLE FOR ANY INCIDENTAL, SPECIAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER, INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF DATA, MEDIA FILE CORRUPTION, DASHBOARD MISCONFIGURATIONS, SYSTEM DOWNTIME, OR ANY OTHER COMMERCIAL DAMAGES OR LOSSES ARISING OUT OF OR RELATED TO YOUR USE OR INABILITY TO USE THE SOFTWARE.
+
+### 7. GOVERNING LAW
+This Agreement shall be governed by and construed in accordance with the laws of the Developer's jurisdiction, excluding its conflict of law principles.
+
+Copyright © 2026 PodRip. All rights reserved.
